@@ -17,7 +17,7 @@ export default function signUp() {
           </div>
           <div class="col">
             <div class="card-block px-2">
-              <h4 class="card-title" style={{color: "#163eab ", marginRight: 250, marginLeft: 100, marginTop:100}}>Get on the VIP list !</h4>
+              <h4 class="card-title" style={{color: "#163eab", marginRight: 250, marginLeft: 100, marginTop:100}}>Get on the VIP list !</h4>
               <p class="card-text" style={{marginRight: 250, marginLeft: 100, marginTop:10}}>
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
                 eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
