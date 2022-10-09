@@ -35,7 +35,7 @@ export default function navbar() {
             <Nav.Link style={{ color: "white" }}>Login/Register</Nav.Link>
           </Nav> 
 
-            <Nav.Link className=" " style={{ color: "white" , marginLeft:500}}>
+            <Nav.Link className=" " style={{ color: "white" , marginLeft:5}}>
               <Cart color={" #ffffff"} height="30px" width="30px" />
             </Nav.Link>
           </Nav>

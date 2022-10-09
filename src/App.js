@@ -9,11 +9,13 @@ import SignUp from "./components/signUp/signUp";
 import Review from "./components/Review/review";
 import Footer from "./components/footer/footer";
 import ribbon from "./ribbon.png";
+import Navbar1 from "./components/Navbar1/navbar1";
 const App = () => {
   return (
     <>
       <div>
         <Navbar />
+        {/* <Navbar1/> */}
         <Dropdown />
         <Crousal />
         <img

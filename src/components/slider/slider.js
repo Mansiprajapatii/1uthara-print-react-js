@@ -1,7 +1,6 @@
-
 import pimg from "../slider/b2.jpg";
-import pimg1 from "../slider/bottle.png";
-import pimg2 from "../slider/laptop.jpg";
+import pimg1 from "../slider/plant.jpg";
+import pimg2 from "../slider/logo.jpg";
 import pimg3 from "../slider/cam.jpg";
 import pimg4 from "../slider/en.jpg";
 import pimg5 from "../slider/book.jpg";
