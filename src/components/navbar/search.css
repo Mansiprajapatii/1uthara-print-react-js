@@ -1,11 +1,12 @@
 .searchbar {
-  max-width: 200px;
+  max-width: 800px;
   display: flex;
   margin-bottom: auto;
   margin-top: auto;
   height: 30px;
   background: #ffffff;
   border-radius: 20px;
+  margin-left: 200px;
 }
 
 .fadeInWidth {
